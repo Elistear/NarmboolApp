@@ -1,0 +1,217 @@
+
+/*Navigation bar*/
+.bar.bar-narmbool {
+  border-color: transparent;
+  background-color: #5E8E3F;
+  background-image: linear-gradient(0deg, #5E8E3F, #5E8E3F 50%, transparent 50%);
+  color: #fff;
+}
+
+/* Back button */
+.bar .button.back-button {
+  color: #d4edcc;
+}
+
+/* Search button */
+.bar .button.button-icon {
+  color: #d4edcc;
+}
+
+/*Row on the first level menu*/
+.row-frontPage {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -moz-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 5px;
+  width: 100%;
+  background-color: transparent;
+  border-color: transparent;
+}
+
+/*Divider for the first level menu*/
+.item.item-narmbool-darkgreen {
+  border-color: #041801;
+  background-color: #041801;
+  text-align: center;
+  color: #fff;
+}
+
+/* Second level menu */
+.second-level {
+  color: #ffffff;
+  padding-top:10px;
+  font-size: 25px;
+  font-family:'Segoe UI', sans-serif;
+}
+
+/*Items on the second level menu*/
+.item-thumbnail-left-secondlevel {
+  padding-top: 8px;
+  padding-left: 106px;
+  min-height: 100px;
+  font-family: fantasy;
+  background-color: transparent;
+  border-color: #C6E0BD;
+}
+
+/* Icons of the items on the second level menu */
+.item-thumbnail-left-secondlevel > img:first-child {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  max-width: 80px;
+  max-height: 80px;
+  width: 100%;
+  height: 100%;
+}
+
+/* Item names on the second level menu */
+.second-level-items {
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top:7px;
+}
+
+/* Items on the detail page and about page */
+.item.item-body h3 {
+  font-size: 19px;
+}
+.item.item-body p {
+  font-size: 17px;
+  color: black;
+}
+
+/*Background color of the detail page*/
+.dark-bg-detailpage {
+  background-color: #041801;
+}
+
+/*Information about the species on the detail page*/
+.card-information-about-item {
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+.card-information-about-item .item {
+  border-left: 0;
+  border-right: 0;
+  border-top: 0;
+  border-color: transparent;
+  background-color: transparent;
+  color: white;
+}
+.list.card-information-about-item b
+{
+  font-size: 20px;
+}
+.list.card-information-about-item p
+{
+  color: white;
+  font-size: 17px;
+}
+
+/* Image slides on the detail page */
+ion-slide img {
+  width: auto;
+  min-height: 100%;
+  object-fit: contain;
+}
+
+/* Italic text on the detail page */
+span.italic-text {
+  font-style: italic;
+}
+
+/* Credit on the detail page*/
+.bar.bar-positivet {
+  border-color: transparent;
+  background: rgba(198,224,189,0.6);
+  color: black;
+  font-style: italic;
+  padding-top: 10px;
+}
+.bar.bar-positivet .title {
+  text-align: end
+}
+.bar.bar-positive.bar-footer {
+  background-image: linear-gradient(180deg, #5E8E3F, #5E8E3F 50%, transparent 50%);
+  text-align: end
+}
+
+/* About page */
+.aboutPage {
+  text-align: justify;
+  text-justify: inter-word;
+  font-size: 20px;
+}
+
+
+/****************************************************************************/
+/*                    Adjustment for iPhone resolutions                     */
+/****************************************************************************/
+
+@media only screen and (min-width: 100px) and (max-width: 600px)
+{
+
+  /* Title for each group on the first level menu */
+  .card h3 {
+    font-size: 9px;
+  }
+
+  /* Rrows on the first level menu*/
+  .row-frontPage {
+    padding: 1px;
+  }
+
+  /* Cards for the first level menu */
+  .card {
+    margin: 0px;
+    padding: 0px;
+  }
+
+  /* Second level menu */
+  .second-level {
+    font-size: 14px;
+  }
+
+  /*Items on the second level menu*/
+  .item-thumbnail-left-secondlevel {
+    padding-top: 0px;
+    padding-left: 77px;
+    min-height: 80px;
+  }
+
+  /*Icons of the items on the second level menu*/
+  .item-thumbnail-left-secondlevel > img:first-child {
+    max-width: 60px;
+    max-height: 60px;
+  }
+
+  /* Item names on the second level menu */
+  .second-level-items {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 7px;
+  }
+
+  /* Items on the detail page and about page*/
+  .item.item-body p {
+    font-size: 15px;
+  }
+  .item.item-body {
+    padding-top: 5px;
+  }
+
+  /*Information about the species on the detail page*/
+  .list.card-information-about-item b {
+    font-size: 17px;
+  }
+  .list.card-information-about-item p {
+    font-size: 15px;
+  }
+}
+
+
+

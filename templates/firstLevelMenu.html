@@ -1,0 +1,133 @@
+<!--
+  This template loads for the 'fistLevelMenu' state (app.js)
+  It displays the first page containing group logos
+-->
+<ion-view title="Species by Group" style="background-color: #5E8E3F">
+  <ion-nav-buttons side="right">
+    <a class="button button-icon ion-ios-search-strong"  style="color: #d4edcc" ng-click="goToSearch()"></a>
+  </ion-nav-buttons>
+
+  <ion-content>
+    <ion-list>
+      <!--animal-->
+      <ion-item class="item item-divider item-narmbool-darkgreen">Animals</ion-item>
+
+      <div class="row-frontPage">
+      <!--3 animal logos together with links and group names-->
+        <div class="col">
+          <div class="card" >
+            <a class="item assertive" ng-click="goToSecondLevelMenu(0)">
+              <div class="item item-image" >
+                <img src="img/groupIcons/iconBirds.png">
+              </div>
+              <br/>
+              <h3 align="center">Birds</h3>
+            </a>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card">
+            <a class="item assertive" ng-click="goToSecondLevelMenu(1)">
+              <div class="item item-image" >
+                <img src="img/groupIcons/iconMammals.png">
+              </div>
+              <br/>
+              <h3 align="center">Mammals</h3>
+            </a>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card">
+            <a class="item assertive" ng-click="goToSecondLevelMenu(2)">
+              <div class="item item-image" >
+                <img src="img/groupIcons/iconFrogs.png">
+              </div>
+              <br/>
+              <h3 align="center">Frogs</h3>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!--plants-->
+      <ion-item class="item item-divider item-narmbool-darkgreen">Plants</ion-item>
+      <div class="row-frontPage">
+
+        <!--5 plant logos together with the links and group names-->
+        <div class="col">
+          <div class="card">
+            <a class="item assertive" ng-click="goToSecondLevelMenu(3)">
+              <div class="item item-image" >
+                <img src="img/groupIcons/iconGrass.png">
+              </div>
+              <br/>
+              <h3 align="center">Grass</h3>
+            </a>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card">
+            <a class="item assertive" ng-click="goToSecondLevelMenu(4)">
+              <div class="item item-image" >
+                <img src="img/groupIcons/iconGroundcovers.png">
+              </div>
+              <br/>
+              <h3 align="center">Groundcovers</h3>
+            </a>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card">
+            <a class="item assertive" ng-click="goToSecondLevelMenu(5)">
+              <div class="item item-image" >
+                <img src="img/groupIcons/iconWildflowers.png">
+              </div>
+              <br/>
+              <h3 align="center">Wildflowers</h3>
+            </a>
+          </div>
+        </div>
+
+      </div>
+
+      <div class="row-frontPage">
+        <div class="col">
+          <div class="card">
+            <a class="item assertive" ng-click="goToSecondLevelMenu(6)">
+              <div class="item item-image" >
+                <img src="img/groupIcons/iconTrees.png">
+              </div>
+              <br/>
+              <h3 align="center">Trees</h3>
+            </a>
+          </div>
+        </div>
+
+        <div class="col">
+          <div class="card">
+            <a class="item assertive" ng-click="goToSecondLevelMenu(7)">
+              <div class="item item-image" >
+                <img src="img/groupIcons/iconUnderstorey.png">
+              </div>
+              <br/>
+              <h3 align="center">Understorey</h3>
+            </a>
+          </div>
+        </div>
+        <div class="col"></div>
+      </div>
+
+      <!--image link to the about page-->
+      <ion-item class="item item-divider item-narmbool-darkgreen">About </ion-item>
+      <ion-item ng-click="goToAboutPage()" style="background-color: transparent; border-color: transparent">
+        <img src="img/narmboolApp.png" width=100%;>
+      </ion-item>
+
+    </ion-list>
+  </ion-content>
+</ion-view>
+

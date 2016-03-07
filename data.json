@@ -1,0 +1,1272 @@
+[
+
+  [
+    {
+      "name": "Pacific Black Duck",
+      "icon": "img/birds/icons/Pacific Black Duck Icon.jpg",
+      "distinctiveMarkings": "White and black stripes on side of face, green patch on wing, white underneath wing.",
+      "identifyingCharacters": "Body mottled dark brown. Head dark brown with a cream stripe above and below the eye, dark stripe through the eye. Body up to 60 cm long.",
+      "habitat": "Freshwater and saltwater wetlands, rivers, and urban ponds.",
+      "biology": "Pacific black ducks are a common duck species around ornamental lakes and urban ponds.",
+      "images": [
+        {
+          "path": "img/birds/Pacific Black Duck MV.jpg",
+          "credit": "Museum Victoria"
+        },
+        {
+          "path": "img/birds/Pacific Black Duck MV1.jpg",
+          "credit": "Museum Victoria"
+        },
+        {
+          "path": "img/birds/Pacific Black Duck MV2.jpg",
+          "credit": "Museum Victoria"
+        }
+      ]
+    },
+
+
+    {
+      "name": "White-Faced Heron",
+      "icon": "img/birds/icons/White-faced Heron Icon.jpg",
+      "distinctiveMarkings": "Grey body, white face.",
+      "identifyingCharacters": "Body grey, face white, breast feathers brown-purple. Bill dark brown and legs yellow. Body up to 70 cm long.",
+      "habitat": "Wetlands, swamps, coastal bays and inlets.",
+      "biology": "White-faced herons feed in shallow water on intertidal mud flats and reefs, and also in pastures. They eat crustaceans, fish, insects and worms.",
+      "images": [
+        {
+          "path": "img/birds/White-faced Heron SK.jpg",
+          "credit": "Steven Kuiter"
+        }
+      ]
+    },
+
+    {
+      "name": "Wedge-Tailed Eagle",
+      "icon": "img/birds/icons/Wedge-tailed Eagles Icon.jpg",
+      "distinctiveMarkings": "Wedge or rhombus shape tail, feathers on legs.",
+      "identifyingCharacters": "Body dark brown with wings and neck paler (adult) or paler with gold sheen (young birds). Feathers extend onto the legs. Tail long, rhombus 'wedge' shape. Body up to 105 cm long.",
+      "habitat": "Most areas, occasionally in urban places.",
+      "biology": "Wedge-tailed eagles are Australia's largest eagle. They travel long distances or circle in thermal air currents. They feed on live prey or dead carcases (carrion).",
+      "images": [
+        {
+          "path": "img/birds/Wedge Tailed Eagle Narmbool.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+        {
+          "path": "img/birds/Wedge-tail Eagle Narmbool.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+        {
+          "path": "img/birds/Wedge-tailed Eagle MV.jpg",
+          "credit": "Museum Victoria"
+        },
+        {
+          "path": "img/birds/WEdgetail Narmbool.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+        {
+          "path": "img/birds/Wedge-tailed Eagles SK.jpg",
+          "credit": "Steven Kuiter"
+        }
+      ]
+    },
+
+    {
+      "name": "Brown Falcon",
+      "icon": "img/birds/icons/Brown Falcon Icon.jpg",
+      "distinctiveMarkings": "Brown, black stripe on face",
+      "identifyingCharacters": "Upper body brown, brown or cream underneath. Black stripe on face. Narrow pointed wings. Body up to 52 cm long.",
+      "habitat": "Open grasslands, pastures and farmland.",
+      "biology": "Brown falcons hunt for their prey by flying overhead and pouncing, occasionally hovering before they attack. They mainly eat small rodents and insects.",
+      "images": [
+        {
+          "path": "img/birds/Brown Falcon SK.jpg",
+          "credit": "Steven Kuiter"
+        }
+      ]
+    },
+
+    {
+      "name": "Purple Swamphen",
+      "icon": "img/birds/icons/Purple Swamphen Icon.jpg",
+      "distinctiveMarkings": "Blue-black body, red bill, red forehead.",
+      "identifyingCharacters": "Body blue-black with purple-blue sides and underparts. Forehead and bill bright red. Tail white underneath. Legs long and red-brown. Body up to 50 cm long.",
+      "habitat": "Freshwater wetlands and swamps, occasionally urban areas with ponds.",
+      "biology": "Purple swamphens feed on aquatic vegetation and invertebrates. They also graze on grasses near wetlands.",
+      "images": [
+        {
+          "path": "img/birds/Purple Swamphen SK.jpg",
+          "credit": "Steven Kuiter"
+        },
+
+        {
+          "path": "img/birds/Purple Swamphen MV.jpg",
+          "credit": "Museum Victoria"
+        },
+
+        {
+          "path": "img/birds/Purple Swamphen MV1.jpg",
+          "credit": "Museum Victoria"
+        },
+
+        {
+          "path": "img/birds/Purple Swamphen MV3.jpg",
+          "credit": "Museum Victoria"
+        }
+      ]
+    },
+
+
+    {
+      "name": "Crimson Rosella",
+      "icon": "img/birds/icons/Crimson Rosella Icon.jpg",
+      "distinctiveMarkings": "Red body, blue wings, blue cheeks.",
+      "identifyingCharacters": "Body mostly red, cheek and upperwing have blue patches, upperparts and remainder of wings black with red edges. Young birds are mostly green with forehead, breast and undertail red. Body up to 40 cm long.",
+      "habitat": "Wet forests and woodlands in mountain areas, also in urban areas.",
+      "biology": "Crimson rosellas usually live solitary or in pairs, sometimes forming flocks in winter. They feed on seeds and fruit.",
+      "images": [
+        {
+          "path": "img/birds/Crimson Rosella MV.jpg",
+          "credit": "Museum Victoria"
+        },
+
+        {
+          "path": "img/birds/Crimson Rosella MV2.jpg",
+          "credit": "Museum Victoria"
+        }
+      ]
+    },
+
+    {
+      "name": "Eastern Rosella",
+      "icon": "img/birds/icons/Eastern Rosella Icon.jpg",
+      "distinctiveMarkings": "Yellow back, red head, white bill and patch on cheek.",
+      "identifyingCharacters": "Head, neck and breast red. Belly and back yellow to green. Wings blue with a black patch on the shoulder. Bill white. Outer tail blue, inner tail green. White patch under eye. Body up to 30 cm long.",
+      "habitat": "Open woodlands and farmlands.",
+      "biology": "Eastern rosellas feed mostly on grass seeds.",
+      "images": [
+        {
+          "path": "img/birds/Eastern Rosella SK.jpg",
+          "credit": "Steven Kuiter"
+        }
+      ]
+    },
+
+
+    {
+      "name": "Laughing Kookaburra",
+      "icon": "img/birds/icons/Laughing Kookaburra Icon.jpg",
+      "distinctiveMarkings": "Blue patch on brown wing, laughing call.",
+      "identifyingCharacters": "Upper body dark brown, underparts white, head dull white with dark brown stripe through the centre. Dark brown stripe across the face. Upper bill dark brown, lower bill white-cream. Wings brown with blue edges, and tail brown and white. Body up to 45 cm long.",
+      "habitat": "Open woodlands, forests and urban areas.",
+      "biology": "Laughing kookaburras hunt by perching on branches and swooping onto their prey below. Small animals, such as insects and worms, are eaten whole. Larger prey, such as small snakes and mammals, may be bashed against tree branches and other hard objects before being eaten. They form breeding pairs for life.",
+      "images": [
+        {
+          "path": "img/birds/Laughing Kookaburra SK.jpg",
+          "credit": "Steven Kuiter"
+        },
+
+        {
+          "path": "img/birds/Laughing Kookaburra MV.jpg",
+          "credit": "Museum Victoria"
+        },
+
+        {
+          "path": "img/birds/Laughing Kookaburra MV 1.jpg",
+          "credit": "Museum Victoria"
+        }
+      ]
+    },
+
+
+    {
+      "name": "Yellow-tailed Black-Cockatoo",
+      "icon": "img/birds/icons/Yellow-tailed Black-cockatoo Icon.jpg",
+      "distinctiveMarkings": "Black body, yellow on tail.",
+      "identifyingCharacters": "Body black with yellow patches on the ear, tail and edges of feathers. Bill dark grey (males) or light grey (females), and a pink (males) or dark grey (females) circle around the eye. Body up to 65 cm long.",
+      "habitat": "Wet forests, woodlands and pine forests.",
+      "biology": "These birds feed on seeds and grubs that live in logs and trees. They have a harsh, penetrating call.",
+      "images": [
+        {
+          "path": "img/birds/Yellow-tailed Black-cockatoo SK.jpg",
+          "credit": "Steven Kuiter"
+        },
+
+        {
+          "path": "img/birds/Yellow-tailed Black-cockatoo MV.jpg",
+          "credit": "Museum Victoria"
+        },
+
+        {
+          "path": "img/birds/Yellow-tailed Black-cockatoo MV 2.jpg",
+          "credit": "Museum Victoria"
+        }
+      ]
+    },
+
+    {
+      "name": "Superb Fairy-Wren",
+      "icon": "img/birds/icons/Superb Fairy-wren Icon.jpg",
+      "distinctiveMarkings": "Blue, black and white body, tail held up.",
+      "identifyingCharacters": "Male lower half of body white, upper half black with light blue patches on top of the head, beneath the eyes and around the neck. Chest black with a blue-black patch. Female and young birds have light brown bodies. Body up to 15 cm long.",
+      "habitat": "Areas with thick undergrowth.",
+      "biology": "Superb fairy-wrens form family groups that co-operate to raise young in a single nest.",
+      "images": [
+        {
+          "path": "img/birds/Superb Fairy-wren SK.jpg",
+          "credit": "Steven Kuiter"
+        },
+
+        {
+          "path": "img/birds/Superb Fairy-wren MV.jpg",
+          "credit": "Museum Victoria"
+        },
+
+        {
+          "path": "img/birds/Superb Fairy-wren MV2.jpg",
+          "credit": "Museum Victoria"
+        }
+      ]
+    },
+
+    {
+      "name": "New Holland Honeyeater",
+      "icon": "img/birds/icons/New Holland Honeyeater Icon.jpg",
+      "distinctiveMarkings": "Yellow patch on wing, white iris.",
+      "identifyingCharacters": "Body black and white except for a bright yellow patch on the wing. Underparts white with numerous black streaks and fine white streaks on the throat. White stripe through the eye. Body up to 20 cm long.",
+      "habitat": "Heaths, coastal banksia woodlands and urban areas.",
+      "biology": "New Holland honeyeaters feed on nectar, insects and honeydew.",
+      "images": [
+        {
+          "path": "img/birds/New Holland Honeyeater SK.jpg",
+          "credit": "Steven Kuiter"
+        },
+
+        {
+          "path": "img/birds/New Holland Honeyeater MV.jpg",
+          "credit": "Museum Victoria"
+        }
+      ]
+    },
+
+    {
+      "name": "Australian Magpie",
+      "icon": "img/birds/icons/Australian Magpie Icon.jpg",
+      "distinctiveMarkings": "Black and white body, thick white bill.",
+      "identifyingCharacters": "Body black and white. Male: top of head, wings, face, underparts and tail tip black; wing-bar and rest of upperparts white. Female: like male, but duller and back mottled grey. Body up to 45 cm long.",
+      "habitat": "Most areas.",
+      "biology": "Magpies are well known for their carolling calls at dawn and dusk. Males defend their territory, especially when breeding.",
+      "images": [
+        {
+          "path": "img/birds/Australian Magpie MV.jpg",
+          "credit": "Museum Victoria"
+        }
+      ]
+    }
+  ],
+
+
+  [
+    {
+      "name": "Black Wallaby / Swamp Wallaby",
+      "icon": "img/mammals/icons/Wallaby Icon.jpg",
+      "distinctiveMarkings": "Black ears, dark face with white stripe.",
+      "identifyingCharacters": "Upper body fur dark brown with underparts yellow to orange-brown. Face dark, often with a white stripe. Hops with head and shoulders low, and tail held horizontal. Body up to 85 cm, tail up to 86 cm.",
+      "habitat": "Undergrowth in forest, woodland and heath.",
+      "biology": "Swamp wallabies feed on leaves of shrubs, ferns and grasses. They are active during the day, but are shy and usually solitary.",
+      "images": [
+        {
+          "path": "img/mammals/Swamp Wallaby MV.jpg",
+          "credit": "Museum Victoria"
+        },
+        {
+          "path": "img/mammals/Wallaby Narmbool.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+        {
+          "path": "img/mammals/Wallaby1 Narmbool.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    },
+    {
+      "name": "Common Brushtail Possum",
+      "icon": "img/mammals/icons/Common Brush-tailed Possum Icon.jpg",
+      "distinctiveMarkings": "Thick black tail, ears longer than wide, dark marking around nose and eyes.",
+      "identifyingCharacters": "Body fur colour variable, in Victoria mostly silver-grey to grey-brown above and white-cream underneath. Tail prehensile, thick and black. Black marking around the eyes and nose. Body up to 50 cm, tail up to 40 cm.",
+      "habitat": "Open dry eucalypt forest, woodlands, suburban areas.",
+      "biology": "Common brushtail possums feed on a variety of plants, leaves, fruits and flowers, sometimes also taking nestling birds. They sleep in tree hollows or similar protected nooks, including ceilings of buildings.",
+      "images": [
+        {
+          "path": "img/mammals/Common Brush-tailed Possum MV.jpg",
+          "credit": "Museum Victoria"
+        },
+        {
+          "path": "img/mammals/Common Brushtail Possum MV 1.jpg",
+          "credit": "Museum Victoria"
+        },
+        {
+          "path": "img/mammals/Common Brush-tailed Possum MV 3.jpg",
+          "credit": "Museum Victoria"
+        },
+        {
+          "path": "img/mammals/Common Brush-tailed Possum MV 4.jpg",
+          "credit": "Museum Victoria"
+        }
+      ]
+    },
+    {
+      "name": "Eastern Grey Kangaroo",
+      "icon": "img/mammals/icons/Eastern Grey Kangaroo Icon.jpg",
+      "distinctiveMarkings": "Grey fur, pale grey underneath.",
+      "identifyingCharacters": "Body fur grey with paler grey underneath. Tail often black at the tip. Hops with head held high and tail curved upwards. Body up to 1.3 m, tail up to 1.1 m.",
+      "habitat": "Grassy woodlands and forests, also parklands and golf courses.",
+      "biology": "Eastern grey kangaroos feed mainly on grasses and herbs, but sometimes eat leaves from trees and shrubs. They are active mostly from dusk to dawn, often in large groups (mobs).",
+      "images": [
+        {
+          "path": "img/mammals/Eastern Grey Kangaroo MV.jpg",
+          "credit": "Museum Victoria"
+        },
+        {
+          "path": "img/mammals/Eastern Grey Kangaroos MV 2.jpg",
+          "credit": "Museum Victoria"
+        }
+      ]
+    },
+    {
+      "name": "Koala",
+      "icon": "img/mammals/icons/Koala Icon.jpg",
+      "distinctiveMarkings": "Rounded face, large ears and nose.",
+      "identifyingCharacters": "Body fur grey-brown. Face circular with a large black nose. Body up to 90 cm long.",
+      "habitat": "Eucalypt woodlands and forests.",
+      "biology": "Koalas are agile climbers with sharp claws. Their diet is entirely eucalypt leaves. They sleep most of the day and are active for about four hours at night.",
+      "images": [
+        {
+          "path": "img/mammals/Koala Narmbool.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    },
+    {
+      "name": "Ringtail Possum",
+      "icon": "img/mammals/icons/Common Ring-tailed Possum Icon.jpg",
+      "distinctiveMarkings": "Tail tip white, small ears.",
+      "identifyingCharacters": "Body fur colour variable, but usually grey-brown above and white underneath. Prehensile tail with a white tip. Body up to 38 cm, tail up to 38 cm.",
+      "habitat": "Range of areas, including forest, coastal scrub and suburban places.",
+      "biology": "Common ringtail possums are mainly solitary but sometimes form small family groups. At night, they forage for leaves, flowers and fruit, using their tail to grip branches as they move.",
+      "images": [
+        {
+          "path": "img/mammals/Common Ring-tailed Possum MV.jpg",
+          "credit": "Museum Victoria"
+        }
+      ]
+    },
+    {
+      "name": "Short-Beaked Echidna",
+      "icon": "img/mammals/icons/Short-beaked Echidna Icon.jpg",
+      "distinctiveMarkings": "Long snout, spines on body.",
+      "identifyingCharacters": "Body rounded and covered in sharp spines, with fur between. Spines yellow-cream with black tips. Smooth tubular snout. Long sharp claws. Body up to 44 cm.",
+      "habitat": "Range of areas, including forests.",
+      "biology": "Short-beaked echidnas capture ants, termites and other small invertebrates using a long, sticky tongue. They grind this food on horny plates in the mouth. Females lay eggs and feed their young on milk.",
+      "images": [
+        {
+          "path": "img/mammals/Short-beaked Echidna MV 1.jpg",
+          "credit": "Museum Victoria"
+        },
+        {
+          "path": "img/mammals/Short-beaked Echidna MV 2.jpg",
+          "credit": "Museum Victoria"
+        }
+      ]
+    },
+    {
+      "name": "Sugar Glider",
+      "icon": "img/mammals/icons/Sugar Glider, Petaurus breviceps Icon.jpg",
+      "distinctiveMarkings": "Gliding membrane, stripe on head and back, tail tip white.",
+      "identifyingCharacters": "Body fur pale grey with dark stripe along the middle of the head and along the back. Underparts paler grey. End of tail black with a white tip. Gliding membrane of skin between the elbow and ankle. Body up to 20 cm, tail up to 21 cm.",
+      "habitat": "Open woodlands and forests.",
+      "biology": "Sugar gliders can glide for 50 m between trees. Their call sounds like the yapping of a small dog. Young are born between July and August and are carried on the mother's back until they are able to care for themselves.",
+      "images": [
+        {
+          "path": "img/mammals/Sugar Glider MV.jpg",
+          "credit": "Museum Victoria"
+        },
+        {
+          "path": "img/mammals/Sugar Glider MV2.jpg",
+          "credit": "Museum Victoria"
+        }
+      ]
+    }
+  ],
+
+  [
+    {
+      "name": "Common Froglet",
+      "icon": "img/frogs/icons/Common Froglet Icon.jpg",
+      "distinctiveMarkings": "Calling sound.",
+      "identifyingCharacters": "Body colour and pattern variable. Belly rough with small lumps, and white with grey to black spots. Up to 3 cm long.",
+      "habitat": "Damp areas, streams or ponds that have plenty of shelter.",
+      "biology": "Common eastern froglets rest in logs and leaf litter. The females lay a mass of eggs, which is attached to twigs and leaves. The tadpoles take about three months to change into frogs.",
+      "images": [
+        {
+          "path": "img/frogs/Common Froglet Narmbool.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    },
+    {
+      "name": "Eastern Banjo Frog",
+      "icon": "img/frogs/icons/Eastern Banjo Frog Icon.jpg",
+      "distinctiveMarkings": "Pale stripe from mouth to top of arm, calling sound.",
+      "identifyingCharacters": "A pale raised stripe from below the eye to top of front leg. Call: a loud 'bonk'. Up to 9 cm long.",
+      "habitat": "Most habitats including urban, heath and sclerophyll forest areas.",
+      "biology": "Banjo frogs burrow in the soil and are sometimes found when people dig in their backyard. Their eggs form a large, white, floating raft in still water.",
+      "images": [
+        {
+          "path": "img/frogs/Eastern Banjo Frog MV.jpg",
+          "credit": "Museum Victoria"
+        },
+        {
+          "path": "img/frogs/Eastern Banjo Frog MV 2.jpg",
+          "credit": "Museum Victoria"
+        }
+      ]
+    },
+    {
+      "name": "Growling Grass Frog",
+      "icon": "img/frogs/icons/growling grass Icon.jpg",
+      "distinctiveMarkings": "The Growling Grass Frog (also known as the Green and Golden Frog, the Southern Bell Frog or the Warty Swamp Frog) is one of the largest frog species in Australia. The females (60-104 mm) grow much larger than the males (55-65 mm).",
+      "identifyingCharacters": "Their colour is variable but is usually olive to bright emerald green with irregular bronze, gold brown or black spotting. Their backs are warty and usually have a pale green stripe down the middle",
+      "habitat": "Growling Grass Frogs like to live amongst reeds, sedges and rushes growing in and along slow moving streams, ponds, lagoons, swamps, lakes and farm dams. They can be found floating in warmer waters that are between 18 and 25 degrees.",
+      "biology": "Growling grass frogs feed primarily on ground-dwelling insects such as beetles, termites, cockroaches, moths, butterflies and insect larvae. However, they also eat lizards, snakes, fish and other frogs, including smaller members of their own species. They are not active hunters;  rather, they sit and wait for their prey to come to them.",
+      "images": [
+        {
+          "path": "img/frogs/Growling Grass Frog Narmbool.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+        {
+          "path": "img/frogs/Growling Grass Frog 2 Narmbool.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+        {
+          "path": "img/frogs/growling grass Narmbool.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    }
+  ],
+
+
+  [
+    {
+      "name": "Kangaroo Grass",
+      "icon": "img/grass/icons/Kangaroo Grass Icon.jpg",
+      "biology": [
+        {
+          "text": "Themeda triandra",
+          "style": "italic"
+        },
+        {
+          "text": " is a perennial grass widespread in Africa, Australia, Asia and the Pacific. In Australia it is commonly known as kangaroo grass. Large red brown spikelets flower between December and February and its seeds have a large barb at the base. Seeds can lay dormant for up to 12 months and requires high temperatures (40 - 45°C) or fire to germinate.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/grass/Kangaroo Grass 5.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+
+        {
+          "path": "img/grass/Kangaroo grass 1.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+
+        {
+          "path": "img/grass/Kangaroo Grass.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    },
+
+    {
+      "name": "Wallaby Grass",
+      "icon": "img/grass/icons/Icon_Wallaby_Grass_pasture.jpg",
+      "biology": [
+        {
+          "text": "Well-liked by stock to feed from, the wallaby grass is a nutritional food source for sheep. Difficult to identify, the leaves are always green, (grey green to dark green) and often hairy. Flowers in spring and autumn with seed-head becoming  fluffy white when mature.  ",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/grass/Wallaby_grass_John Tann.jpg",
+          "credit": "John Tann"
+        },
+
+        {
+          "path": "img/grass/Lobed_Wallaby_Grass_pasture_John Tann.jpg",
+          "credit": "John Tann"
+        },
+
+        {
+          "path": "img/grass/Wallaby_grass_John Tunn1.jpg",
+          "credit": "John Tann"
+        }
+      ]
+    },
+
+    {
+      "name": "Spear Grass",
+      "icon": "img/grass/icons/Spear Grass Icon.jpg",
+      "biology": [
+        {
+          "text": "Can grow in highly saline environments. The sharp seeds are hazards for pets (can lodge in paws and become infected) as well as stock.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/grass/Spear Grass.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    },
+
+    {
+      "name": "Silver Tussock",
+      "icon": "img/grass/icons/silver tussock Icon.jpg",
+      "biology": [
+        {
+          "text": "Scientific name is ",
+          "style": ""
+        },
+        {
+          "text": "Poa labiilardierei",
+          "style": "italic"
+        },
+        {
+          "text": ". Rough, flat, mid-green leaves and flowers during spring to summer. The plant provides shelter for lambs.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/grass/silver tussock.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    },
+
+    {
+      "name": "Spiny-Headed Mat-Rush",
+      "icon": "img/grass/icons/spiny headed Matt Rush Icon.jpg",
+      "biology": [
+        {
+          "text": "Lomandra longifolia",
+          "style": "italic"
+        },
+        {
+          "text": " is a native Australian plant, but is not found in the Northern Territory or Western Australia. Leaves are glossy green, firm and flat which makes it ideal in making strong nets and baskets as the Aboriginal people did. They also ate the base of the plant.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/grass/spiny headed Matt Rush.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+
+        {
+          "path": "img/grass/spiny headed Matt Rush2.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    },
+
+    {
+      "name": "Cumbungi",
+      "icon": "img/grass/icons/Icon_Broadleaf_Cumbungi_John Tann.jpg",
+      "biology": [
+        {
+          "text": "Leaves were used by Aboriginal people for weaving and the roots for flour, only after careful treatment to remove toxins. It is commonly found in freshwater environments, arounds dams, lakes, river banks and creeks and can also tolerate salty conditions. It can provide nesting areas for birds, protection against creek bank erosion and is also used as a biological means of cleaning water of contaminants and excessive nutrients in waterways.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/grass/Broadleaf_Cumbungi_John Tann.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    }
+  ],
+
+  [
+    {
+      "name": "Bidgee-Widgee",
+      "icon": "img/groundcovers/icons/Icon Bidgee-widgee.jpg",
+      "biology": [
+        {
+          "text": "Have marble-sized, spiny balls that form at end of the stems after flowering. These spiny balls are like velcro and will stick to clothes, as well as to the fur and feathers of passing animals. They are the seeds of the plant, and being able to stick to passing animals, ensures the spread of the plant. Often grow in previously disturbed soil.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/groundcovers/Bidgee-widgee John Tann.jpg",
+          "credit": "John Tann"
+        },
+
+        {
+          "path": "img/groundcovers/Bidgee-widgee_John Tann.jpg",
+          "credit": "John Tann"
+        }
+      ]
+    },
+
+    {
+      "name": "Cranberry Heath",
+      "icon": "img/groundcovers/icons/Cranberry Heath Icon.jpg",
+      "biology": [
+        {
+          "text": "Dense growing ground cover that can be up to 50cm high and 1.5m wide. Red tubular flowers with small, round, green fruits. The fleshy part of the fruit can be eaten. Birds like to feed on the nectar and fruits.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/groundcovers/Cranberry Heath.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    },
+
+    {
+      "name": "Snake Wattle",
+      "icon": "img/groundcovers/icons/Snake Wattle Icon.jpg",
+      "biology": [
+        {
+          "text": "Prostrate form of acacia that has ball-shaped yellow flowers from winter to early spring.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/groundcovers/Snake Wattle.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+
+        {
+          "path": "img/groundcovers/Snake Wattle 2.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    }
+  ],
+
+  [
+
+    {
+      "name": "Blue Pincushion",
+      "icon": "img/wildflowers/icons/Blue Pincushion Icon.jpg",
+      "biology": [
+        {
+          "text": "Blue cushion-like flowers and tufted rosettes of leaves that are covered in long silky hairs.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/wildflowers/Blue Piccushion.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    },
+
+    {
+      "name": "Blue Star",
+      "icon": "img/wildflowers/icons/Blue Star Icon.jpg",
+      "biology": [
+        {
+          "text": "A tuberous perennial herb found across southern Australia. The Koorie name is Mudrurt.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/wildflowers/Blue Star.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    },
+
+    {
+      "name": "Chocolate Lily",
+      "icon": "img/wildflowers/icons/Chocolate Lily Icon.jpg",
+      "biology": [
+        {
+          "text": "Perennial herb whose scent is similar to chocolate.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/wildflowers/Chocolate Lily 2.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    },
+
+    {
+      "name": "Clover Glycine",
+      "icon": "img/wildflowers/icons/Clover Glycine Icon.jpg",
+      "biology": [
+        {
+          "text": "Listed as threatened under the Flora and Fauna Guarantee Act 1988, this small perennial herb can be found at Mannas Outstation. Seed can remain dormant in the soil for many years and can germinate after fire or flooding.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/wildflowers/Clover Glycine.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    },
+
+    {
+    "name": "Early Nancy",
+    "icon": "img/wildflowers/icons/Early Nancy Icon.jpg",
+      "biology": [
+        {
+          "text": "One of the first wildflowers to bloom at the start of spring. The roots of the plant were often eaten by Aboriginal people.",
+          "style": ""
+        }
+      ],
+    "images": [
+      {
+        "path": "img/wildflowers/Early Nancy.jpg",
+        "credit": "Narmbool Sovereign Hill"
+      },
+
+      {
+        "path": "img/wildflowers/Early Nancy11.jpg",
+        "credit": "Narmbool Sovereign Hill"
+      }
+    ]
+  },
+
+    {
+    "name": "Nodding Greenhood",
+    "icon": "img/wildflowers/icons/Nodding Greenhood Icon.jpg",
+      "biology": [
+        {
+          "text": "Australian orchid that flowers between July and October.",
+          "style": ""
+        }
+      ],
+    "images": [
+      {
+        "path": "img/wildflowers/Nodding Greenhood.jpg",
+        "credit": "Narmbool Sovereign Hill"
+      },
+
+      {
+        "path": "img/wildflowers/Nodding Greenhood 2.jpg",
+        "credit": "Narmbool Sovereign Hill"
+      }
+    ]
+  },
+
+    {
+      "name": "Scented Sundew",
+      "icon": "img/wildflowers/icons/Scented Sun Dew Icon.jpg",
+      "biology": [
+        {
+          "text": "Herb with a single large white flower measuring approximately 3cm. Leaves will be red if growing in the sun, green when in the shade. Tiny hairs on the leaves detect when small insects are present. The sundew will then secrete an enzyme that will cause the insect to stick to the leaves. The plant is then able to dissolve the insect and absorb the nutrients. Commonly found in low nitrogen soils.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/wildflowers/Scented Sun Dew.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+
+        {
+          "path": "img/wildflowers/Scented Sun Dew 2.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    },
+
+    {
+      "name": "Golden Moth Orchid",
+      "icon": "img/wildflowers/icons/Sun Moth Orchid Icon.jpg",
+      "biology": [
+        {
+          "text": "The common golden moth orchid is a species of orchid that is endemic to south-eastern Australia. It is found in grassy woodland habitats, often in colonies.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/wildflowers/Sun Moth Orchid.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+
+        {
+          "path": "img/wildflowers/Sun Moth Orchid 2.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    },
+
+
+    {
+      "name": "Tall Sundew",
+      "icon": "img/wildflowers/icons/Tall Sundew Icon.jpg",
+      "biology": [
+        {
+          "text": "A carnivorous plant that is able to follow the sun. Is well suited to soils low in nitrogen as it is able to get nutrients from the small insects it eats.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/wildflowers/Tall Sundew.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    },
+
+    {
+      "name": "Wax-Lip Orchid",
+      "icon": "img/wildflowers/icons/Waxlip Orchid Icon.jpg",
+      "biology": [
+        {
+          "text": "A common, bright purple orchid. It is germinated by fungi and is thought to be pollinated by bees.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/wildflowers/Waxlip Orchid.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    },
+
+    {
+      "name": "Yellow Rush Lily",
+      "icon": "img/wildflowers/icons/yellow rush lily.jpg",
+      "biology": [
+        {
+          "text": "Has underground stems called rhizomes and yellow flowers up to 8mm.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/wildflowers/yellow rush lily.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    }
+  ],
+
+  [
+
+    {
+      "name": "Broad-leaved Peppermint",
+      "icon": "img/trees/icons/Broad Leaved Peppermint Icon.jpg",
+      "biology": [
+        {
+          "text": "Leaves are more than 2cm wide and have a strong peppermint smell when crushed. Rough bark all the way to branches.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/trees/Broad Leaved Peppermint.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+
+        {
+          "path": "img/trees/Broad Leaved Peppermint 2.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    },
+
+    {
+      "name": "Candle Bark",
+      "icon": "img/trees/icons/Candle Bark Icon.jpg",
+      "biology": [
+        {
+          "text": "Similar to manna gum bark, it has smooth bark on most of the trunk but it does not peel away in ribbons. Leaves are narrow and about 10 – 20 cm long. Flowers in summer.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/trees/Candle Bark 3.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    },
+
+    {
+      "name": "Cherry Ballart",
+      "icon": "img/trees/icons/Cherry Ballarat Icon.jpg",
+      "biology": [
+        {
+          "text": "Partly parasitic, the cherry ballarat will obtain nutrients and water from the roots of nearby vegetation, but will not kill the host plant. Fruits are a food source for many native birds, and kangaroos and wallabies will eat the leaves.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/trees/Cherry Ballart.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+
+        {
+          "path": "img/trees/Cherry Ballart2.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+
+        {
+          "path": "img/trees/Cherry Ballart3.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    },
+
+    {
+      "name": "Manna Gum",
+      "icon": "img/trees/icons/Manna Gum Icon.jpg",
+      "biology": [
+        {
+          "text": "Leaves are liked by koalas as a source of food. Has rough, dark coloured bark at the base of the tree and is white and smooth at the top. Bark peels away in ribbons.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/trees/Manna Gum.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+
+        {
+          "path": "img/trees/Manna Gum 2.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    },
+
+    {
+      "name": "Messmate Stringybark",
+      "icon": "img/trees/icons/Messmate Icon.jpg",
+      "biology": [
+        {
+          "text": "Bark is brown to greyish and can be torn away in a stringy strip. Messmate was the first eucalypt described in 1788 during Captain Cook’s third voyage. Timber is widely used in construction.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/trees/Messmate.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+
+        {
+          "path": "img/trees/Messmate 3.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+        {
+          "path": "img/trees/Messmate 4.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    },
+
+    {
+    "name": "Narrow-leaved Peppermint",
+    "icon": "img/trees/icons/Narrow Leaf Peppermint Icon.jpg",
+     "biology": [
+        {
+          "text": "Leaves have a strong peppermint smell when crushed and are less than 2cm wide. Flowers between October and January.",
+          "style": ""
+        }
+     ],
+    "images": [
+      {
+        "path": "img/trees/Narrow Leaf Peppermint.jpg",
+        "credit": "Narmbool Sovereign Hill"
+      },
+
+      {
+        "path": "img/trees/Narrow Leaf Peppermint2.jpg",
+        "credit": "Narmbool Sovereign Hill"
+      }
+    ]
+  },
+
+    {
+      "name": "Scent Bark",
+      "icon": "img/trees/icons/Scent Bark Icon.jpg",
+      "biology": [
+        {
+          "text": "One of more than 800 species of eucalyptus trees, the rough bark of a scent bark tree can smell quite strong when crushed. The flowers of this tree can be used to make honey.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/trees/Scent Bark.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    },
+
+    {
+      "name": "Snow Gum",
+      "icon": "img/trees/icons/Icon Snow Gum.jpg",
+      "biology": [
+        {
+          "text": "Found around Echidna Dam, these tall, white and smooth barked trees  have been planted by the previous owners, Robin and Andrew Ferry. They can endure cold climates and the nearest naturally occurring population is at Mt. Cole, near Ararat.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/trees/Snow_Gum.jpg",
+          "credit": "Toby Hudson"
+        }
+      ]
+    },
+
+    {
+      "name": "Swamp Gum",
+      "icon": "img/trees/icons/Swamp Gum Icon.jpg",
+      "biology": [
+        {
+          "text": " Generally found in poorly drained areas, with sandy or clay soils. Quite often found nearby to stringy bark or peppermint tree populations. Its scientific name, ",
+          "style": ""
+        },
+        {
+          "text": "Eucalyptus ovata",
+          "style": "italic"
+        },
+        {
+          "text": ", refers to the oval shape of the leaves. It has thick, rough bark, about a third of the way up the tree, with the rest of the branches being smooth and whitish.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/trees/Swamp Gum 2.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+        {
+          "path": "img/trees/Swamp Gum 3.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+        {
+          "path": "img/trees/Swamp Gum 4.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+        {
+          "path": "img/trees/Swamp Gum.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    },
+
+    {
+      "name": "Yarra Gum",
+      "icon": "img/trees/icons/Yarra Gum Icon.jpg",
+      "biology": [
+        {
+          "text": "Its scientific name is ",
+          "style": ""
+        },
+        {
+          "text": "Eucalyptus yarraensis",
+          "style": "italic"
+        },
+        {
+          "text": " and it is only found in Victoria. Due to human impact on the environment, it is now considered to be very rare with populations only found in Ballarat, the East Otways and Gippsland.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/trees/Yarra Gum 3.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+        {
+          "path": "img/trees/Yarra Gum.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    },
+
+    {
+      "name": "Black Wattle",
+      "icon": "img/trees/icons/Black Wattle Icon.jpg",
+      "biology": [
+        {
+          "text": "Flowers during October through to December with pale yellow flowers. The fern like leaves are called bipinnate, and they branch out from the stem above little nodes.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/trees/Black Wattle.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+        {
+          "path": "img/trees/Black Wattle 6.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+        {
+          "path": "img/trees/Black Wattle 7.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    },
+
+    {
+      "name": "Silver Wattle",
+      "icon": "img/trees/icons/Silver Wattle Icon.jpg",
+      "biology": [
+        {
+          "text": "Flowers between July and October with bright yellow flowers. Its pinnate, fern like leaves branch out from the stem adjacent to the nodes.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/trees/Silver Wattle.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+        {
+          "path": "img/trees/Silver Wattle 2.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    }
+
+  ],
+
+  [
+    {
+      "name": "Austral Bracken",
+      "icon": "img/understory/icons/Austral Bracken.jpg",
+      "biology": [
+        {
+          "text": "Bracken fern, as it is also known, was a staple food for Aboriginal people who would roast the roots to remove the toxins, then beat them into a paste. The curled tips can be eaten and taste slightly nutty (and a bit fury). The sap from young stems can also be used to relieve the sting and itchiness from insect bites.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/understory/Austral Bracken.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+
+        {
+          "path": "img/understory/Austral Bracken2.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    },
+
+    {
+      "name": "Kangaroo Apple",
+      "icon": "img/understory/icons/Icon_Kangaroo_apple_flower.jpg",
+      "biology": [
+        {
+          "text": "Medium sized shrub with dark green glossy leaves. It has violet flowers in spring and its fruit changes in colour from green, to yellow, to orange, to eventually bright red when it is ripe. The Aboriginal people ate the fruit when they were very ripe, however the kangaroo apple is rumoured to be poisonous when it is not ripe.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/understory/Kangaroo_apple_flower John Tann.jpg",
+          "credit": "John Tann"
+        },
+
+        {
+          "path": "img/understory/Kangaroo_apple_John Tann.jpg",
+          "credit": "John Tann"
+        },
+
+        {
+          "path": "img/understory/Kangaroo_apple_flower_John Tann.jpg",
+          "credit": "John Tann"
+        }
+      ]
+    },
+
+
+    {
+      "name": "Prickly Moses",
+      "icon": "img/understory/icons/PricklyMoses Icon.jpg",
+      "biology": [
+        {
+          "text": "A frost tolerant plant belonging to the acacia family (wattles). Its flowers are cream-coloured balls and it has spiky dark green needle-like leaves called phyllodes.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/understory/Prickly Moses.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+
+        {
+          "path": "img/understory/PricklyMoses2.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    },
+
+    {
+      "name": "Silver Banksia",
+      "icon": "img/understory/icons/Silver Banksia Icon.jpg",
+      "biology": [
+        {
+          "text": "Named by Carl Linnaeus in 1782, the father of modern plant classification. He named it after Sir Joseph Banks who was the naturalist aboard the Endeavour with Captain Cook. Underside of the leaves are white/silver in colour and the yellow flower looks like a candle. The tree form of the species is very rare due to the depletion of its habitat on the volcanic plains. Most commonly found in shrub form of 1 – 5m high.",
+          "style": ""
+        }
+      ],
+      "images": [
+        {
+          "path": "img/understory/Silver Banksia.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+
+        {
+          "path": "img/understory/Silver Banksia 2.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+
+        {
+          "path": "img/understory/Silver Banksia 3.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        },
+
+        {
+          "path": "img/understory/Silver Banksia 4.jpg",
+          "credit": "Narmbool Sovereign Hill"
+        }
+      ]
+    }
+
+  ]
+]
+

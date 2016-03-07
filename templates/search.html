@@ -1,0 +1,31 @@
+<!--
+  This template loads for the 'search' state (app.js)
+  The search page reads data from the result of search() and displays items as a list
+-->
+<ion-view >
+  <ion-nav-title>
+    <label class="item item-input">
+      <i class="icon ion-search placeholder-icon"></i>
+      <input id="inputSearch" type="search" placeholder="Search..." ng-model="searchText.keyword">
+    </label>
+  </ion-nav-title>
+  <ion-nav-buttons side="right">
+    <a class="button button-icon ion-ios-search-strong" style="color: #d4edcc" ng-click="search()"></a>
+  </ion-nav-buttons>
+
+  <ion-content style="background-image: url('img/backgroundMaxTransparent.jpg');
+		background-size: cover;
+		background-repeat: repeat-y">
+    <ion-list ng-repeat="item in searchResult">
+      <div class="second-level-items">
+        <ion-item class="item item-thumbnail-left-secondlevel" ng-click="showDetailFromSearch('{{$index}}')">
+          <img src="{{item.icon}}">
+          <br/><div class="second-level">{{item.name}}</div>
+        </ion-item>
+      </div>
+    </ion-list>
+  </ion-content>
+</ion-view>
+</body>
+
+

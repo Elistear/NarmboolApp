@@ -1,0 +1,61 @@
+<!--
+  This template loads for the 'detail' state (app.js)
+  It displays images and information of the selected species
+-->
+
+<ion-view title={{species.name}} class="dark-bg-detailpage">
+  <ion-nav-buttons side="right">
+    <a class="button button-icon ion-ios-search-strong" ng-click="goToSearch()"></a>
+  </ion-nav-buttons>
+
+  <ion-content>
+    <!--Image slides and credits-->
+    <ion-slide-box does-continue="true" show-pager="true">
+      <ion-slide ng-repeat="img in species.images">
+        <img class="full-image" ng-src={{img.path}} height="{{imageHeight}}">
+        <div class="bar bar-footer bar-positivet"> Credit: {{img.credit}}</div>
+      </ion-slide>
+    </ion-slide-box>
+
+    <!--Information about the species-->
+    <div class="list card-information-about-item">
+      <!--If the species is animal then display extra 3 pieces of information-->
+      <div ng-if="firstSelection < 3">
+        <div class="item item-body">
+          <b>Distinctive Markings</b>
+          <p>{{species.distinctiveMarkings}}</p>
+        </div>
+        <div class="item item-body">
+          <b>Identifying Characters</b>
+          <p>{{species.identifyingCharacters}}</p>
+        </div>
+        <div class="item item-body">
+          <b>Habitat</b>
+          <p>{{species.habitat}}</p>
+        </div>
+        <div class="item item-body">
+          <b>Biology</b>
+          <p>{{species.biology}}</p>
+        </div>
+      </div>
+      <!--Display biology of the species-->
+      <div ng-if="firstSelection >= 3">
+        <div class="item item-body">
+          <b>Biology</b>
+          <p>
+        <!--If there is a scientific name in the paragraph then make it italic-->
+        <span ng-repeat="splitText in species.biology">
+          <span ng-if="splitText.style == 'italic'">
+            <span class="italic-text">{{splitText.text}}</span>
+          </span>
+          <span ng-if="splitText.style == ''">
+            <span>{{splitText.text}}</span>
+          </span>
+        </span>
+          </p>
+        </div>
+      </div>
+    </div>
+  </ion-content>
+</ion-view>
+
